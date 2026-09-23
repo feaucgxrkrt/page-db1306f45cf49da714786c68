@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "512c8f1aafb3ed12a504f263",
+  "owner": "feaucgxrkrt",
+  "repo": "page-db1306f45cf49da714786c68",
+  "title": "汉堡(hbCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "db1306f45cf49da714786c68",
+      "a": "汉堡(hbCloud)",
+      "b": "2027最新官网",
+      "entity": "汉堡(hbCloud)",
+      "brand": "汉堡(hbCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e33ff8fc0730e1218b5e9726730d33cbc4ad1b73582ab79bea1615f818c2cd6f",
+      "content": {
+        "primary_entity": "汉堡(hbCloud)",
+        "keyword1": "汉堡(hbCloud)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows、macOS、Android、iOS 和路由器各有对应工具。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选定套餐后依照客户端文档导入订阅，即可开始使用汉堡(hbCloud)海外加速服务。",
+          "AI_CLOSING_TITLE": "开始使用汉堡(hbCloud)",
+          "AI_DESCRIPTION": "，汉堡(hbCloud)提供基础版、旗舰版和团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备，适合个人日常浏览；旗舰版每月 300GB 流量、支持 5 台设备，并配备 IPLC 专线优化游戏加速；团队版每月 1000GB 流量、支持 20 台设备，附带专属客户经理。三档均支持按年付，年付价格分别为 ¥150、¥350 和 ¥850，用户可按流量和在线设备数量灵活选择。",
+          "AI_FEATURES_INTRO": "从流量、设备数和订阅周期三个角度对比，能更快找到适合自己的版本。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "家庭共享选旗舰版可覆盖手机、平板和电脑，团队协作则适合多人同时在线。",
+          "AI_FEATURE_TEXT_3": "三档均提供按年付方案，年付比按月支付更省，长期使用建议直接选择年付。",
+          "AI_FEATURE_TITLE_1": "按流量与设备数匹配",
+          "AI_FEATURE_TITLE_2": "按使用场景选择",
+          "AI_FEATURE_TITLE_3": "订阅周期更灵活",
+          "AI_GUIDE_INTRO": "从确定套餐到完成订阅配置，只需三步。",
+          "AI_GUIDE_TITLE": "订阅配置流程",
+          "AI_HERO_INTRO": "汉堡(hbCloud)提供多档海外加速订阅，覆盖个人浏览、流媒体、游戏加速与团队协作。基础版、旗舰版和团队版按流量与设备数区分，用户可先确认自己常用的设备数量和每月流量需求，再选择按月或按年订阅。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "支持按月或按年订阅",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流媒体与游戏，团队版面向多设备协作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和常用设备数量，在基础版、旗舰版和团队版中确定一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持同时在线的设备数，以及是否需要流媒体或游戏加速等权益。",
+          "AI_STEP_TEXT_3": "打开对应设备的客户端，依照订阅文档导入配置信息即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "汉堡(hbCloud)海外加速",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。超出设备数时可选择更高档位，或减少同时在线设备。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。流量按自然月重置，选套餐时按日常使用量估算。",
+          "AI_FAQ_ANSWER_3": "三个套餐均提供年付选项：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。长期使用年付更划算。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟和视频画质有要求的用户。",
+          "AI_FAQ_ANSWER_5": "订阅配置可参考所用客户端的说明文档，按文档步骤导入即可。不同平台操作方式略有差异。",
+          "AI_FAQ_QUESTION_1": "一个套餐能同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "每月流量用完了怎么办？",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_4": "哪个套餐适合游戏和流媒体？",
+          "AI_FAQ_QUESTION_5": "订阅配置在哪里导入？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--4t-ub3ct44l.com",
+    "host": "xn--4t-ub3ct44l.com"
+  },
+  "file_hashes": {
+    "index.html": "e13dd09049ccf3286430bb1b13eb8a25d0c738c3ab9894192f871d90666e4637",
+    "sitemap.xml": "f4ebd2acd417eba88b90df1a39ce36d95a0ff7fab958eb6449ed7cc13d514d04",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "613ad1b107c9411f9eb8a6b0529b29d45fdda01f31f8cbd97ad7c1ec12f21b64",
+    "robots.txt": "45c5641156aec4cb5984a97461a468cdd76f530549ebc6ac50d5ae0225e3dc74",
+    "e60a141db679d89df409810a7a681407.txt": "eb0bb47d00293c4ac984cdd73ed729b74af0f2f18d9df65abf8162821561b71e"
+  },
+  "revision": "1ffe0072b1002801eb821dcc156ceaf2127a4c0635deedc0e8414b2d6abb739b"
+}
